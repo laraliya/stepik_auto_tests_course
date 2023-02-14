@@ -1,3 +1,3 @@
 # stepik_auto_tests_course
-Homework of course
-https://stepik.org/course/575/syllabus
+Репозиторий для выполнения задании по курсу https://stepik.org/course/575/syllabus
+Ссылка на репозиторий: https://github.com/laraliya/stepik_auto_tests_course
